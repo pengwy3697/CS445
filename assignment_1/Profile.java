@@ -1,4 +1,4 @@
-package a1;
+package cs445.a1;
 
 
 public class Profile implements ProfileInterface {
@@ -6,7 +6,6 @@ public class Profile implements ProfileInterface {
 	/**
 	 * 
 	 */
-	//private static final long serialVersionUID = 3529997638549299013L;
 	
 	String name;
 	String about;

@@ -1,4 +1,4 @@
-package a1;
+package cs445.a1;
 
 import java.io.Serializable;
 import java.util.Arrays;
